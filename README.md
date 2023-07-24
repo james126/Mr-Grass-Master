@@ -1,3 +1,12 @@
+<b>Under Construction</b><br>
+<p>The new iteration of this project has an improved user interface.<br>
+I'm currently implementing Login security for the admin page.<br>
+Details of the old project can still be viewed below and on AWS</p><br>
+<b>New index page:</b>
+<img src="https://github.com/james126/Mr-Grass-Master/blob/development/screenshots/newmgm.png" width="100%" height="100%">
+<br>
+---
+
 # Mr Grass Master
 <b>Description</b><br>
 I refactored one of my old PHP projects to use Java instead.<br>

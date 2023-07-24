@@ -2,7 +2,7 @@
 <ul>
 <li>The new iteration of this project has an improved user interface.</li>
 <li>I'm currently implementing Login security for the admin page.</li>
-<li>Details of the old project can still be viewed below and on AWS</li>
+<li>Details of the old project can still be viewed below and on AWS.</li>
 </ul>
 <b>New index page:</b>
 <img src="https://github.com/james126/Mr-Grass-Master/blob/development/screenshots/newmgm.png" width="100%" height="100%">

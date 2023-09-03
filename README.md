@@ -213,12 +213,12 @@ BODY:
 <a name="backlog"></a>
 
 ## Backlog
-- [ ] Separate front-end app using Anguar ![](https://geps.dev/progress/20)
-- [ ] Form submission confirmation
-- [ ] Brute force attack mitigation
-- [ ] Form captcha
+- [ ] Separate into front-end (Angular) and back-end (Spring Boot) ![](https://geps.dev/progress/80)
+- [ ] Deploy front-end and back-end apps
 - [ ] Domain name
-- [ ] https
+- [ ] Brute force attack mitigation
+- [ ] Form submission confirmation
+- [ ] Form captcha
   <br/>
 
 <a name="version"></a>

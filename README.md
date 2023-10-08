@@ -37,6 +37,13 @@
     </picture>
 </div>
 
+<div align="center">
+    
+[http://m-g-m.ap-southeast-2.elasticbeanstalk.com](http://m-g-m.ap-southeast-2.elasticbeanstalk.com)
+    
+</div>
+
+
 ## Contents
 
 - [Demo](#demo)
@@ -50,9 +57,9 @@
 <a name="demo"></a>
 
 ## Demo
-
+NB: Currently, cookies must be enabled on the browser for JWT authentication<br>
 [http://m-g-m.ap-southeast-2.elasticbeanstalk.com](http://m-g-m.ap-southeast-2.elasticbeanstalk.com)
-<br>NB: Currently, cookies must be enabled on the browser for JWT authentication
+
 <a name="description"></a>
 
 ## Description

@@ -39,7 +39,7 @@
 
 <div align="center">
     
-[http://m-g-m.ap-southeast-2.elasticbeanstalk.com](http://m-g-m.ap-southeast-2.elasticbeanstalk.com)
+[https://mrgrassmaster.com/](https://mrgrassmaster.com/)
     
 </div>
 
@@ -58,7 +58,7 @@
 
 ## Demo
 NB: Currently, cookies must be enabled on the browser for JWT authentication<br>
-[http://m-g-m.ap-southeast-2.elasticbeanstalk.com](http://m-g-m.ap-southeast-2.elasticbeanstalk.com)
+[https://mrgrassmaster.com/](https://mrgrassmaster.com/)
 
 <a name="description"></a>
 

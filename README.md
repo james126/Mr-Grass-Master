@@ -40,7 +40,7 @@
 <div align="center">
     
 [https://mrgrassmaster.com/](https://mrgrassmaster.com/)
-    
+
 </div>
 
 
@@ -58,6 +58,7 @@
 
 ## Demo
 NB: Currently, cookies must be enabled on the browser for JWT authentication<br>
+
 [https://mrgrassmaster.com/](https://mrgrassmaster.com/)
 
 <a name="description"></a>
